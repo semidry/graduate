@@ -8,7 +8,7 @@
 - 下载[预安装映像](https://cdimage.ubuntu.com/releases/23.10/release/) （Preinstalled server image）：[For RISC-V computers, with support for StarFive VisionFive 2](https://cdimage.ubuntu.com/releases/23.10/release/ubuntu-23.10-preinstalled-server-riscv64+visionfive2.img.xz) 
 	![Pasted image 20240409140151](./星光2安装Ubuntu.assets/Pasted image 20240409140151.png)
 	
-	![image](./星光2安装Ubuntu.assets/Pasted image 20240409140151.png)
+	![image]([graduate/文档/星光2安装Ubuntu/星光2安装Ubuntu.assets/Pasted image 20240409140151.png at main · semidry/graduate (github.com)](https://github.com/semidry/graduate/blob/main/文档/星光2安装Ubuntu/星光2安装Ubuntu.assets/Pasted image 20240409140151.png))
 	
 - 使用[balenaEtcher - Flash OS images to SD cards & USB drives](https://etcher.balena.io/#download-etcher)将映像烧录到SD卡上
 	![Pasted image 20240409140352](./星光2安装Ubuntu.assets/Pasted image 20240409140352.png)
