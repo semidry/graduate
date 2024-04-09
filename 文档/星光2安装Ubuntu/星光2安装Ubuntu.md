@@ -6,9 +6,9 @@
 
 ### 步骤：
 - 下载[预安装映像](https://cdimage.ubuntu.com/releases/23.10/release/) （Preinstalled server image）：[For RISC-V computers, with support for StarFive VisionFive 2](https://cdimage.ubuntu.com/releases/23.10/release/ubuntu-23.10-preinstalled-server-riscv64+visionfive2.img.xz) 
-	![Pasted image 20240409140151](星光2安装Ubuntu.assets/Pasted image 20240409140151.png)
+	![Pasted image 20240409140151](.星光2安装Ubuntu.assets/Pasted image 20240409140151.png)
 - 使用[balenaEtcher - Flash OS images to SD cards & USB drives](https://etcher.balena.io/#download-etcher)将映像烧录到SD卡上
-	![Pasted image 20240409140352](星光2安装Ubuntu.assets/Pasted image 20240409140352.png)
+	![Pasted image 20240409140352](.星光2安装Ubuntu.assets/Pasted image 20240409140352.png)
 - SD卡插入开发板，上电开机。
 - 网线一头连接VisionFive2 网口，另一头连接路由器。使用`计算机`登录路由器管理页面（通常是192.168.0.1），在路由器管理软件中找到新设备。（通常叫ubuntu），记录IP地址。
 - 在计算机上SSH连接开发板。
